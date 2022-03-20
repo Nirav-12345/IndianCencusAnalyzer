@@ -1,0 +1,5 @@
+C:\Users\Nirav Raj\Desktop\day29\IndianStateCencusAnalyzer\obj\Debug\net6.0\IndianStateCencusAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\day29\IndianStateCencusAnalyzer\obj\Debug\net6.0\IndianStateCencusAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\day29\IndianStateCencusAnalyzer\obj\Debug\net6.0\IndianStateCencusAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\day29\IndianStateCencusAnalyzer\obj\Debug\net6.0\IndianStateCencusAnalyzer.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\day29\IndianStateCencusAnalyzer\obj\Debug\net6.0\IndianStateCencusAnalyzer.csproj.CoreCompileInputs.cache
